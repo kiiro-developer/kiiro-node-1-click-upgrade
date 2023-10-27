@@ -1,9 +1,9 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Kiirocoin/kiiro-node-1-click-install">
+  <a href="https://github.com/Kiirocoin/kiiro-node-1-click-upgrade">
     <img src="https://avatars.githubusercontent.com/u/138875999?s=48&v=4" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">KIIROCOIN 1 CLICK MASTERNODE INSTALL</h3>
+  <h3 align="center">KIIROCOIN 1 CLICK MASTERNODE UPGRADE</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
